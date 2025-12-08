@@ -55,7 +55,7 @@
 ## 📖 Abstract
 
 We present **COREA**, the first unified framework that jointly learns relightable 3D Gaussians and a Signed Distance Field (SDF) for accurate geometry reconstruction and faithful relighting.
-While recent 3D Gaussian Splatting (3DGS) methods have extended toward mesh reconstruction and physically-based rendering (PBR), their geometry is still learned from 2D renderings, leading to coarse surfaces and unreliable BRDF-lighting decomposition.
+While recent 3D Gaussian Splatting (3DGS) methods have extended toward mesh reconstruction and physically-based rendering (PBR), their geometry is still learned from 2D renderings, leading to coarse surfaces and unreliable BRDF-lighting decomposition. <br>
 To address these limitations, COREA introduces a **coarse-to-fine bidirectional 3D-to-3D alignment** strategy that allows geometric signals to be learned directly in 3D space.
 Within this strategy, depth provides coarse alignment between the two representations, while depth gradients and normals refine fine-scale structure, and the resulting geometry supports stable BRDF-lighting decomposition.
 A density-control mechanism further stabilizes Gaussian growth, balancing geometric fidelity with memory efficiency.
