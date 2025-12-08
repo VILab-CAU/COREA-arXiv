@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-    <img src="assets/taegeuk.png" alt="COREA" width="30"/>
+    <img src="assets/taegeuk.png" alt="COREA" width="36"/>
     COREA
 </h1>
 
