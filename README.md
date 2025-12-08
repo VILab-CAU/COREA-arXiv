@@ -1,5 +1,8 @@
 <div align="center">
-<h2>COREA</h2>
+<h2>
+    <img src="assets/icons/Taegeuk.png" alt="COREA" width="32" style="vertical-align:middle; margin-right:8px;"/>
+    COREA
+</h2>
 
 <div>&nbsp;&nbsp;
     <a href="https://sites.google.com/vilab.cau.ac.kr/jaeyoonlee" target="_blank">Jaeyoon Lee</a><sup>*</sup>&nbsp;
@@ -60,18 +63,6 @@ To address these limitations, COREA introduces a **coarse-to-fine bidirectional 
 Within this strategy, depth provides coarse alignment between the two representations, while depth gradients and normals refine fine-scale structure, and the resulting geometry supports stable BRDF-lighting decomposition.
 A density-control mechanism further stabilizes Gaussian growth, balancing geometric fidelity with memory efficiency.
 Experiments on standard benchmarks demonstrate that COREA achieves superior performance in **novel-view synthesis**, **mesh reconstruction**, and **PBR** within a unified framework.
-
----
-
-## 🖼️ Method Overview
-
-<p align="center">
-    <img src="assets/pipeline.png" width="92%">
-</p>
-
-<p align="center">
-    <img src="assets/DDC.png" width="80%">
-</p>
 
 ---
 
