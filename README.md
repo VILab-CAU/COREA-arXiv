@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
     <a href="https://cau-vilab.github.io/COREA/" target="_blank">
-        <img src="assets/taegeuk.png" alt="COREA" width="26"/>
+        <img src="assets/taegeuk.png" alt="COREA" width="25"/>
     </a>
     COREA
 </h1>
