@@ -38,12 +38,6 @@
     </h4>
 </div>
 
-<div align="center">
-    🔥 <b>Physically-based relighting</b>,<br>
-    🎯 <b>Bidirectional 3D-to-3D geometry alignment</b>,<br>
-    🎨 <b>High-fidelity wrinkles & shading preservation</b>
-</div>
-
 <br>
 
 <div align="center">
