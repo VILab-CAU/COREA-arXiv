@@ -33,7 +33,7 @@
 
 <div align="center">
     <h4>
-        This repository is the official implementation of "<b>COREA</b>: Coarse-to-Fine 3D Representation Alignment
+        Official implementation of "<b>COREA</b>: Coarse-to-Fine 3D Representation Alignment
     Between Relightable 3D Gaussians and SDF via Bidirectional 3D-to-3D Supervision."
     </h4>
 </div>
