@@ -41,7 +41,7 @@
 <br>
 
 <div align="center">
-    <img src="assets/teaser.png" alt="Teaser" width="92%">
+    <img src="assets/Teaser.png" alt="Teaser" width="92%">
 </div>
 
 ---
