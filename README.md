@@ -1,25 +1,33 @@
 <div align="center">
-<h2>COREA</h2>
 
-<div>&nbsp;&nbsp;
-    Jaeyoon Lee<sup>*</sup>&nbsp;
-    Hojoon Jung<sup>*</sup>&nbsp;
-    Sungtae Hwang&nbsp;
-    Jihyong Oh<sup>†</sup>&nbsp;
-    Jongwon Choi<sup>†</sup>
+<a href="https://sites.google.com/vilab.cau.ac.kr/jaeyoonlee" target="_blank">
+Jaeyoon Lee</a><sup>*</sup>&nbsp;
+
+<a href="https://sites.google.com/view/hjjung-homepage/홈" target="_blank">
+Hojoon Jung</a><sup>*</sup>&nbsp;
+
+<a href="https://sites.google.com/vilab.cau.ac.kr/hst/" target="_blank">
+Sungtae Hwang</a>&nbsp;
+
+<a href="https://sites.google.com/view/ozbro/" target="_blank">
+Jihyong Oh</a><sup>†</sup>&nbsp;
+
+<a href="https://sites.google.com/site/jwchoivision/home" target="_blank">
+Jongwon Choi</a><sup>†</sup>
+
+<br>
+
+<sup>*</sup>Equal contribution &nbsp;&nbsp;&nbsp; <sup>†</sup>Corresponding authors  
+<br>
+Chung-Ang University, Seoul, Korea
+
 </div>
 
-<div>
-    Chung-Ang University, Seoul, Korea
-</div>
-<div>
-    <sup>*</sup>Equal contribution, <sup>†</sup>Co-corresponding authors
-</div>
 <br>
 
 <h4>
     <a href="https://vilab-cau.github.io/COREA/" target='_blank'>
-    <img src="https://img.shields.io/badge/🌐-Project%20Page-blue">
+    <img src="https://img.shields.io/badge/🌐https://sites.google.com/view/ozbro-Project%20Page-blue">
     </a>
     <a href="https://arxiv.org/abs/25xx.xxxxx" target='_blank'>
     <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg">
