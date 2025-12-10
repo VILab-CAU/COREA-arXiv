@@ -32,7 +32,6 @@
     <a href="https://arxiv.org/abs/2512.07107" target="_blank">
         <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv">
     </a>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/VILab-CAU/COREA?style=social">
 </h4>
 </div>
 
