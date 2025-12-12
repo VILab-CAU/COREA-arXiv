@@ -54,8 +54,8 @@
 ---
 
 ## 📢 News
-- **Dec 2025** — The paper is available on [arXiv](https://arxiv.org/abs/2512.07107).
-- **Project Page launch** — Online with all demos
+- **Dec 08, 2025** — This repository is created.
+- **Dec 08, 2025** — The paper is available on [arXiv](https://arxiv.org/abs/2512.07107).
 
 ---
 
