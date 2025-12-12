@@ -54,7 +54,7 @@
 ---
 
 ## 📢 News
-- **Dec 2025** — arXiv submission completed (coming soon)
+- **Dec 2025** — The paper is available on [arXiv](https://arxiv.org/abs/2512.07107).
 - **Project Page launch** — Online with all demos
 
 ---
