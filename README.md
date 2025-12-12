@@ -54,8 +54,8 @@
 ---
 
 ## 📢 News
-- **Dec 08, 2025** — This repository is created.
-- **Dec 08, 2025** — The paper is available on [arXiv](https://arxiv.org/abs/2512.07107).
+- **Dec 08, 2025**: This repository is created.
+- **Dec 08, 2025**: The paper is available on [arXiv](https://arxiv.org/abs/2512.07107).
 
 ---
 
